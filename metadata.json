@@ -1,0 +1,7 @@
+{
+  "name": "CareerForge",
+  "description": "An autonomous AI career operating system that analyzes your profile, identifies skill gaps, plans your learning, and coaches you for interviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
